@@ -1734,6 +1734,10 @@ body {
 .cid-qOMwS2wcxp .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qOMwS2wcxp .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qOMwS2wcxp .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qOMwS2wcxp .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qOMwS2wcxp .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1827,6 +1831,10 @@ body {
   .cid-qOMwS2wcxp .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qOMwS2wcxp .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qOMwS2wcxp .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qOMwS2wcxp .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qOMwS2wcxp .navbar-collapse.collapsing .navbar-buttons,
   .cid-qOMwS2wcxp .navbar-collapse.show .navbar-buttons {
